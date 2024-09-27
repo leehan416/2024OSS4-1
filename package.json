@@ -12,7 +12,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    // "build": "react-scripts build",
     "build": "CI=false react-scripts build",
     "start": "react-scripts start",
     "test": "react-scripts test",
